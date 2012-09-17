@@ -1,0 +1,4 @@
+#ifndef _ELIMINARALIAS_H
+#define _ELIMINARALIAS_H
+
+#endif // _ELIMINARALIAS_H

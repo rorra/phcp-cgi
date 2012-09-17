@@ -1,0 +1,4 @@
+#ifndef _CREARFTPANONIMO_H
+#define _CREARFTPANONIMO_H
+
+#endif // _CREARFTPANONIMO_H
